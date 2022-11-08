@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: black	 
+Favorite food: pizza
+Favorite musician/band: 2pac
+Favorite movie: the hobbit
+Requested grade in the course: 100
